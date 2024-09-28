@@ -43,8 +43,4 @@ The trained model successfully identifies high-demand locations for new EV stati
 
 Feel free to submit a pull request or raise an issue if you find any bugs or have suggestions for improvements.
 
-**License**
-
-This project is licensed under the MIT License.
-
 
